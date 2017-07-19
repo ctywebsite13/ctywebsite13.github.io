@@ -1,0 +1,952 @@
+body
+{
+    width:100%;
+    height:50em;
+    margin:auto;
+}
+.logobar
+{
+    width:100%;
+    margin:auto;
+    margin-top:.5em;
+    margin-left:.5em;
+    margin-bottom:1.5em;
+}
+.logobar #logo
+{
+    height:6em;
+    width:6em;
+    float:left;
+}
+.logobar img
+{
+    height:6em;
+    width:6em;
+}
+nav 
+{
+  overflow: hidden;
+  background-color: white;
+  position: relative;
+  width: 90%;
+  display:inline-block;
+}
+nav a 
+{
+  float: right;
+  display: block;
+  width:10%;
+  color: black;
+  text-align: center;
+  margin-top:.5em;
+  padding: 1.5em 1.5em;
+  text-decoration: none;
+  font-size: 1em;
+  overflow: hidden;
+}
+nav a:hover
+{
+   background-color:lightgray; 
+   overflow:hidden;
+}
+.headerpicture
+{
+    width:100%;
+    height:40em;
+    background-image: url(background.jpg);
+    opacity:.8;
+}
+.arrow img
+{
+    width:10%;
+    height:5%;
+    margin-left:40em;
+    margin-top:1em;
+    opacity:.8;
+}
+section
+{
+    width:100%;
+    height:40em;
+}
+.title
+{
+    margin-top:7em;
+}
+.box
+{
+    width:25%;
+    height:30em;
+    margin-left:5%;
+    margin-right:0%;
+    display:inline-block;
+}
+.box2
+{
+    width:25%;
+    height:40em;
+    margin-left:5%;
+    display:inline-block;
+}
+.box3
+{
+    width:25%;
+    height:30em;
+    margin-left:5%;
+    display:inline-block;
+    
+}
+.sectiontitle
+{
+    text-align: center;
+    font-size:3em;
+}
+.title img
+{
+    width:15em;
+    height:auto;
+    margin-left:4em;
+    filter:grayscale(100);
+}
+.title a
+{
+    text-decoration: none;
+    color:black;
+}
+.title a:hover
+{
+    opacity:.2;
+}
+
+.section2 h1
+{
+    font-size: 5em;
+    text-align: center;
+    margin-top:1em;
+    margin-bottom:0em;
+}
+.section2
+{
+    margin-bottom:4em;
+}
+.section2 h3
+{
+    text-align: center;
+    font-size: 1.5em;
+   padding-bottom: 1em;
+}
+.categories
+{
+    margin-top:5em;
+}
+.section2 img
+{
+    margin-left:10%;
+}
+.section2 a:hover
+{
+    opacity:.2;
+}
+#box
+{
+    background-color:black;
+    width:100%;
+    height:30px; 
+}
+#boxtwo
+{
+    background-image:url(backgroundbar.jpg);
+    width:100%;
+    height:30px;
+    margin-top: 5px;
+}
+#boxthree
+{
+    background-image:url(backgroundbar3.jpg);
+    width:100%;
+    height:30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#boxfour
+{
+    background-image:url(backgroundbar.jpg);
+    width:100%;
+    height:30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#boxfive
+{
+    background-image:url(backgroundbar5.jpg);
+    width:100%;
+    height:30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#boxsix
+{
+    background-image:url(backgroundbar6.jpg);
+    width:100%;
+    height:30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#boxseven
+{
+    background-color:black;
+    width:100%;
+    height:30px; 
+    margin-bottom:50px;
+}
+.content h3
+{
+    color: black;
+    text-align: center;
+    font-size: 5em;
+    padding:0;
+    margin:0;
+    border:0;
+    padding-top:20px;
+}
+h3
+{
+    color: black;
+    text-align: center;
+    font-size: 5em;
+    padding:0;
+    margin:0;
+    border:0;
+    padding-top:30px;
+}
+.aboutcontent
+{
+    margin-bottom:3em;
+}
+.aboutcontent h5
+{
+    color:black;
+    font-size:25px;
+    text-align: center;
+}
+.aboutcontent ul
+{
+    margin-left:50px;
+}
+.aboutcontent li
+{
+    color:black;
+    font-size:20px;
+    text-align: center;
+    list-style-type: none;
+}
+ .aboutcontent p
+{
+    color:black;
+    font-size:20px;
+}
+.packages
+{
+    margin:0 auto;
+}
+#packagestitle h3
+{
+    color: black;
+    text-align: center;
+    font-size: 5em;
+    padding:0;
+    margin:0;
+    border:0;
+    padding-bottom:0;
+    margin-bottom:0;
+}
+#slogan
+{
+    text-align:center;
+    margin-top:0;
+}
+.rate1
+{
+    display:inline-block;
+    width:30%;
+    height:auto;
+    margin-right:2.5%;
+    margin-left:2.5%;
+}
+.rate2
+{
+    display:inline-block;
+    width:30%;
+    height:auto;
+    margin-right:2.5%;
+}
+.rate3
+{
+    display:inline-block;
+    width:30%;
+    height:auto;
+}
+.packages h5
+{
+    text-align:center;
+    margin:0;
+    font-size: 30px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border:solid;
+    border-color: black;
+    border-width:thin;
+}
+.packages h6
+{
+    text-align:center;
+    margin:0;
+    font-size: 45px;
+    padding-top:20px;
+    padding-bottom:10px;
+    border:solid;
+    border-color: black;
+    border-width:thin;
+    border-bottom-style: none;
+}
+.packages h4
+{
+    text-align:center;
+    margin:0;
+    border:solid;
+    border-color: black;
+    border-width:thin;
+    border-bottom-style: none;
+    border-top-style: none;
+}
+.packages ul
+{
+    padding-left:0;
+    margin:auto;
+}
+.packages li
+{
+    list-style-type: none;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom:5px;
+    padding:5px;
+    border:solid;
+    border-color: black;
+    border-width:thin;
+    border-bottom-style: none;
+    border-top-style: none;
+}
+.recomendation p
+{
+    text-align:center;
+    border:solid;
+    border-color: black;
+    border-width:thin;
+    margin:0;
+    padding-top: 10px;
+    padding-bottom:10px;
+}
+.section4 h3
+{
+    color: black;
+    text-align: center;
+    font-size: 5em;
+    margin-top:2em;
+}
+.section4
+{
+    width:100%;
+    height:auto;
+}
+.section4 #boxx1
+{
+    width:30%;
+    height:30em;
+    background-image: url(computer3.jpg);
+    display:inline-block;
+    margin-left:5%;
+    margin-top:5%;
+}
+.section4 #boxx2
+{
+    margin-top:5%;
+    width:30%;
+    height:30em;
+    background-image: url(computer1.jpg);
+    display:inline-block;
+}
+.section4 #boxx3
+{
+    margin-top:5%;
+    width:30%;
+    height:30em;
+    background-image:url(computer2.jpg);
+    display:inline-block;
+}
+.section4 #boxx1:hover
+{
+    opacity:.2;
+}
+.section4 #boxx2:hover
+{
+    opacity:.2;
+}
+.section4 #boxx3:hover
+{
+    opacity:.2;
+}
+.section5 h1
+{
+    color: black;
+    text-align: center;
+    font-size: 5em;
+    margin-top:2em;
+}
+.maintenance
+{
+    width:50%;
+    margin:auto;
+}
+.maintenance h5
+{
+    font-size:2em;
+    text-align: center;
+    border:solid;
+    border-bottom:none;
+    border-width: thin; 
+    margin:0;
+}
+.maintenance h6
+{
+    text-align:center;
+    margin:0;
+    font-size: 2em;
+    padding-top:.5em;
+    padding-bottom:.5em;
+    border:solid;
+    border-color: black;
+    border-width:thin;
+    border-bottom:none;
+}
+.maintenance #description
+{
+    font-size:1em;
+    border-style:solid;
+    border-width:thin;
+    margin:0;
+    padding-top:.5em;
+    padding-bottom:.5em;
+    text-align:center;
+    
+}
+.maintenance h4
+{
+     text-align:center;
+    margin:0;
+    font-size: 1em;
+    padding-top:1em;
+    padding-bottom:1em;
+    border:solid;
+    border-color: black;
+    border-width:thin;
+    border-bottom-style: none;
+}
+.maintenance ul
+{
+    padding-left:0;
+    margin:auto;
+    border-top-style: solid;
+    border-width:thin;
+}
+.maintenance li
+{
+    list-style-type: none;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom:5px;
+    padding:5px;
+    border:solid;
+    border-color: black;
+    border-width:thin;
+    border-top-style: none;
+    border-bottom: none;
+}
+.maintenance p
+{
+    text-align:center;
+}
+.section6
+{
+    margin-top:3em;
+}
+.section6 img
+{
+    margin-top:2em;
+    filter:grayscale(100%);
+    width:100%;
+    height:auto;
+}
+.section6 #square2
+{
+    float:right;
+    width:50%;
+}
+.section6 #square1
+{
+    width:40%;
+    text-align:center;
+    display:inline-block;
+    margin-top:5em;
+}
+.section6 h1
+{
+    font-size: 5em;
+    margin-bottom:0;
+}
+.section6 h3
+{
+    font-size:2em;
+    margin:0;
+}
+.section7
+{
+    width:50%;
+    border:solid;
+    border-width:thin;
+}
+.section7 h1
+{
+    font-size:3em;
+    text-align:center;
+}
+.section4 #redirect
+{
+    font-size:2em;
+    text-decoration:none;
+    color:black;
+    text-align:center;
+}
+.section8 h1
+{
+    color: black;
+    text-align: center;
+    font-size: 5em;
+    margin-bottom:none;
+    margin-top:3em;
+}
+.section8 h3
+{
+    color: black;
+    text-align: center;
+    font-size: 2em;
+    padding:0;
+    margin:0;
+}
+.section8 img
+{
+    margin-left:20%;
+    width:20%;
+    height:auto;
+    display:inline-block;
+}
+.section8 #pic
+{
+    margin-right:10%;
+    width:20%;
+    height:auto;
+    display:inline-block;
+}
+.section8 img:hover
+{
+    opacity:.2;
+}
+footer
+{
+    margin-top:2em;
+    background-color:white;
+    text-align:center;
+}
+.section11
+{
+    width:100%;
+    height:auto;
+    margin-bottom:10em;
+}
+.section11 h1
+{
+    text-align:center;
+    font-size:5em;
+}
+.section11 img
+{
+    width:40%;
+    height:auto;
+    margin-left:5%; 
+}
+.section11 img:hover
+{
+    opacity:.2;
+}
+.section11 img #pic2
+{
+    width:40%;
+    height:auto;
+    margin-left:10%; 
+}
+.section2 #maintitle
+{
+    margin-top:2.5em;
+}
+.content #packagestitle h3
+{
+    margin-top:1em;
+}
+
+
+
+
+
+.containerq
+{
+    width:100%;
+    height:auto;
+}
+.containerq img
+{
+    width:100%;
+    height: auto;
+    padding:0;
+    margin:0;
+    position:relative;
+}
+.containerq h1
+{
+    color:white;
+    position:absolute;
+    top:1.3em;
+    left:5em;
+    text-align: center;
+    width:40%;
+    height:auto;
+    font-size: 9em;
+    margin:0;
+    border:0;
+}
+.container2q
+{
+    width:100%;
+    height:auto;
+}
+.container2q h1
+{
+    font-size: 9em;
+    text-align: center;
+    margin-bottom:0;
+}
+.pq
+{
+    width:50%;
+    height:auto;
+    display: inline-block;
+}
+.pq h3
+{
+    width:100%;
+    font-size:3em;
+    text-align: center;
+    margin-top:1em;
+    margin-bottom:0;
+}
+.pq p
+{
+    text-align: center;
+    width:100%;
+    font-size: 2em;
+}
+#aboutpictureq
+{
+    width:40%;
+    height:40em;
+    display:inline-block;
+    background-image:url(suiteq.jpeg);
+    margin-top: 4em;
+    margin-left:3em;
+    filter:grayscale(100%);
+}
+.logocontainerq
+{
+    width:28%;
+    margin:auto;
+}
+.logocontainerq img
+{
+    width:4em;
+    height:4em;
+    margin-left:1em;
+    margin-right:1em;
+    display: inline-block;
+}
+.zz
+{
+    width:99%;
+    margin:auto
+}
+.z 
+{
+  overflow: hidden;
+  background-color: white;
+  position: relative;
+  width: 100%;
+  overflow:hidden;
+}
+
+.z a 
+{
+  float: left;
+  display: block;
+  width:47.5%;
+  color: black;
+  text-align: center;
+  margin-bottom: .5em;
+  margin-top:.5em;
+  padding: 1em 1em;
+  text-decoration: none;
+  font-size: 1em;
+  overflow: hidden;
+}
+
+.z a:hover
+{
+   background-color:lightgray; 
+   overflow:hidden;
+}
+#homebackgroundz
+{
+    position:relative;
+    width:100%;
+    height:auto;
+    opacity:.5;
+}
+.homez h1
+{
+    position:absolute;
+    font-size: 8em;
+    margin:0;
+    text-align: center;
+    padding:0;
+    width:100%;
+    bottom:4em;
+    z-index: 1;
+}
+.homez h3
+{
+    position:absolute;
+    font-size:3em;
+    bottom:8em;
+    width:100%;
+    text-align:center;
+}
+.container2z
+{
+    width:100%;
+    height:100%;
+    margin-top:1.3em;
+}
+.container2z #boxcontainerz
+{
+    width:100%;
+    height:auto;
+    margin-top:1em;
+}
+.container2z #boxz
+{
+    width:40%;
+    height:30em;
+    background-color:grey;
+    display:inline-block;
+    margin-left:5%;
+    margin-right:5%;
+    background-image: url(box1z.jpg);
+}
+.container2z #box2z
+{
+    display:inline-block;
+    width:40%;
+    height:30em;
+    background-color:grey;
+    margin-left:5%;
+    background-image: url(box2z.jpg);
+}
+.container2z #box3z
+{
+    display:inline-block;
+    width:40%;
+    height:30em;
+    background-color:grey;
+    margin-left:5%;
+    margin-top:10%;
+    background-image: url(box3z.jpg);
+}
+.container2z #box4z
+{
+    display:inline-block;
+    width:40%;
+    height:30em;
+    background-color:grey;
+    margin-left:10%;
+    background-image: url(box4z.jpg)
+}
+.container2z #box5z
+{
+     width:40%;
+    height:30em;
+    background-color:grey;
+    display:inline-block;
+    margin-left:5%;
+    margin-right:5%;
+    background-image: url(box1z.jpg);
+}
+.container2z #box6z
+{
+    display:inline-block;
+    width:40%;
+    height:30em;
+    background-color:grey;
+    margin-top:10%;
+    margin-left:5%;
+    background-image: url(box2z.jpg);
+}
+.container2z #box7z
+{
+    display:inline-block;
+    width:40%;
+    height:30em;
+    background-color:grey;
+    margin-left:5%;
+    margin-top:10%;
+    background-image: url(box3z.jpg);
+}
+.container2z #box8z
+{
+    display:inline-block;
+    width:40%;
+    height:30em;
+    background-color:grey;
+    margin-left:10%;
+    background-image: url(box4z.jpg)
+}
+
+
+#u
+{
+        background-image: url(beach.jpg);
+        background-repeat: no-repeat;
+}
+.containeru
+{
+    width:99%;
+    height:auto;
+    margin:auto;
+}
+.containeru h1
+{
+    font-size:7em;
+    text-align: center;
+    color:white;
+    margin-top:2.5em;
+    margin-bottom:2.5em;
+}
+.navbaru 
+{
+  overflow: hidden;
+  background:transparent;
+  position: relative;
+  width: 100%;
+  overflow:hidden;
+}
+
+.navbaru a 
+{
+  float: left;
+  display: block;
+  width:100%;
+  color: white;
+  text-align: center;
+  padding:0;
+  border:0;
+  margin:auto;
+  margin-bottom: .5em;
+  margin-top:.5em;
+  padding: .5em .5em;
+  text-decoration: none;
+  font-size: 2em;
+  overflow: hidden;
+}
+.container2u
+{
+    width:100%;
+    height:100%;
+    margin-top:1.3em;
+}
+.container2u h2
+{
+    font-size:7em;
+    text-align: center;
+    color:black;
+    margin-top:0;
+    margin-bottom:0;
+}
+.container2u #boxcontaineru
+{
+    width:100%;
+    height:auto;
+    margin-top:1em;
+}
+.container2u #boxu
+{
+    width:40%;
+    height:30em;
+    background-color:grey;
+    display:inline-block;
+    margin-left:5%;
+    margin-right:5%;
+    background-image: url(box1u.jpg);
+}
+.container2u #box2u
+{
+    display:inline-block;
+    width:40%;
+    height:30em;
+    background-color:grey;
+    margin-left:5%;
+    background-image: url(box2u.jpg);
+}
+.container2u #box3u
+{
+    display:inline-block;
+    width:40%;
+    height:30em;
+    background-color:grey;
+    margin-left:5%;
+    margin-top:10%;
+    background-image: url(box3u.jpg);
+}
+.container2u #box4u
+{
+    display:inline-block;
+    width:40%;
+    height:30em;
+    background-color:grey;
+    margin-left:10%;
+    background-image: url(box4u.jpg)
+}
+.container3u
+{
+    margin:auto;
+     margin-top:5%;
+    width:50%;
+    height:50em;
+    background-image:url(background2u.jpg);
+}
