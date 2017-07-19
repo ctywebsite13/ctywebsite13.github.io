@@ -56,13 +56,16 @@ nav a:hover
     background-image: url(background.jpg);
     opacity:.8;
 }
+.arrow
+{
+    width:100%;
+    height:auto;
+}
 .arrow img
 {
     width:10%;
-    height:5%;
-    margin-left:40em;
-    margin-top:1em;
     opacity:.8;
+    margin-left:45%;
 }
 section
 {
